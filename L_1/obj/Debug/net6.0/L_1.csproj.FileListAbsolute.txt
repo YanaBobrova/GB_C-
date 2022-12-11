@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\bin\Debug\net6.0\L_1.exe
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\bin\Debug\net6.0\L_1.deps.json
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\bin\Debug\net6.0\L_1.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\bin\Debug\net6.0\L_1.dll
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\bin\Debug\net6.0\L_1.pdb
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\L_1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\L_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\L_1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\L_1.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\L_1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\L_1.dll
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\refint\L_1.dll
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\L_1.pdb
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\L_1.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Учеба аналитика\GB\Project\GB_C#\L_1\obj\Debug\net6.0\ref\L_1.dll
